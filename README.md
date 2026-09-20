@@ -12,7 +12,7 @@ Program memiliki satu kelas yaitu film seperti yang sudah dispesifikasikan, deng
 
 ## DOKUMENTASI
 ### CPP
-(https://github.com/VenerableEmperor/TP1DPBO2526C1/blob/main/dokumentasi/cpp/SS1.png?raw=true)
+!(https://github.com/VenerableEmperor/TP1DPBO2526C1/blob/main/dokumentasi/cpp/SS1.png?raw=true)
 ### JAVA 
 
 ### Python 
